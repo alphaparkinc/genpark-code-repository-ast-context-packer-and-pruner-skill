@@ -1,0 +1,8 @@
+{
+  "name": "genpark-code-repository-ast-context-packer-and-pruner-skill",
+  "version": "1.0.0",
+  "description": "Token-budget-aware repository context extractor, import graph crawler, and symbol-dense code prompt packer",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
